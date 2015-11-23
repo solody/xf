@@ -19,4 +19,8 @@ require 'init_autoloader.php';
 
 // Run the application!
 Zend\Mvc\Application::init(require 'config/application.config.php')->run();
+<<<<<<< HEAD
 // Egit Added.
+=======
+// Github Added!!!
+>>>>>>> branch 'master' of https://github.com/solody/xf.git
